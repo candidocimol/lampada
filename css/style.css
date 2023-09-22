@@ -1,0 +1,22 @@
+#main{
+	width:100vw;
+ }
+
+#lamp{
+	width:20vw;
+	height: 80vh;
+	margin:0 auto;
+}
+
+#lamp img {
+	width: 100%;
+}
+
+#interrupt{
+	width:5vw;
+	margin:0 auto;
+}
+
+#interrupt img {
+	width: 100%;
+}
